@@ -1,0 +1,470 @@
+<resources>
+    <string name="app_name">สพค.67</string>
+    <string name="app_name_full">โครงการสำรวจข้อมูลพื้นฐานของครัวเรือน พ.ศ. 2567 </string>
+
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">ชื่อผู้ใช้งาน</string>
+    <string name="prompt_password">รหัสผ่าน</string>
+    <string name="action_sign_in">เข้าใช้งานระบบ</string>
+    <string name="action_sign_out">ออกจากระบบ</string>
+    <string name="action_sign_in_short">เข้าใช้งานระบบ</string>
+    <string name="error_invalid_email">ชื่อผู้ใช้งานหรือรหัสผ่านผิด</string>
+    <string name="error_invalid_password">ชื่อผู้ใช้งานหรือรหัสผ่านผิด</string>
+    <string name="error_incorrect_password">ชื่อผู้ใช้งานหรือรหัสผ่านผิด</string>
+    <string name="error_field_required">กรุณากรอกข้อมูล</string>
+    <string name="permission_rationale">"กรุณาติดต่อกลุ่มพัฒนาระบบงานจัดเก็บข้อมูล ศูนย์เทคโนโลยีสารสนเทศและการสื่อสาร สำนักงานสถิติแห่งชาติ"
+    </string>
+    <string name="title_activity_employee">หน้า เลือกรายชื่อพนักงาน</string>
+
+    <string name="action_settings">Settings</string>
+
+
+    <!-- Array -->
+    <string-array name="extra_tmb_item_array">
+        <item value='0'>-เลือก-</item>
+        <item value='1'>01</item>
+        <item value='2'>02</item>
+        <item value='3'>03</item>
+        <item value='4'>04</item>
+        <item value='5'>05</item>
+        <item value='6'>06</item>
+        <item value='7'>07</item>
+        <item value='8'>08</item>
+        <item value='9'>09</item>
+        <item value='10'>10</item>
+        <item value='11'>11</item>
+        <item value='12'>12</item>
+        <item value='13'>13</item>
+        <item value='14'>14</item>
+        <item value='15'>15</item>
+        <item value='16'>16</item>
+        <item value='17'>17</item>
+        <item value='18'>18</item>
+        <item value='19'>19</item>
+        <item value='20'>20</item>
+        <item value='21'>21</item>
+        <item value='22'>22</item>
+        <item value='23'>23</item>
+        <item value='24'>24</item>
+        <item value='25'>25</item>
+        <item value='26'>26</item>
+        <item value='27'>27</item>
+        <item value='28'>28</item>
+    </string-array>
+
+    <string-array name="extra_tmb_value_array">
+        <item value='0'>-เลือก-</item>
+        <item value='1'>01</item>
+        <item value='2'>02</item>
+        <item value='3'>03</item>
+        <item value='4'>04</item>
+        <item value='5'>05</item>
+        <item value='6'>06</item>
+        <item value='7'>07</item>
+        <item value='8'>08</item>
+        <item value='9'>09</item>
+        <item value='10'>10</item>
+        <item value='11'>11</item>
+        <item value='12'>12</item>
+        <item value='13'>13</item>
+        <item value='14'>14</item>
+        <item value='15'>15</item>
+        <item value='16'>16</item>
+        <item value='17'>17</item>
+        <item value='18'>18</item>
+        <item value='19'>19</item>
+        <item value='20'>20</item>
+        <item value='21'>21</item>
+        <item value='22'>22</item>
+        <item value='23'>23</item>
+        <item value='24'>24</item>
+        <item value='25'>25</item>
+        <item value='26'>26</item>
+        <item value='27'>27</item>
+        <item value='28'>28</item>
+    </string-array>
+
+
+    <string-array name="extra_vil_item_array">
+        <item value='0'>-เลือก-</item>
+        <item value='1'>01</item>
+        <item value='2'>02</item>
+        <item value='3'>03</item>
+        <item value='4'>04</item>
+        <item value='5'>05</item>
+        <item value='6'>06</item>
+        <item value='7'>07</item>
+        <item value='8'>08</item>
+        <item value='9'>09</item>
+        <item value='10'>10</item>
+        <item value='11'>11</item>
+        <item value='12'>12</item>
+        <item value='13'>13</item>
+        <item value='14'>14</item>
+        <item value='15'>15</item>
+        <item value='16'>16</item>
+        <item value='17'>17</item>
+        <item value='18'>18</item>
+        <item value='19'>19</item>
+        <item value='20'>20</item>
+        <item value='21'>21</item>
+        <item value='22'>22</item>
+        <item value='23'>23</item>
+        <item value='24'>24</item>
+        <item value='25'>25</item>
+        <item value='26'>26</item>
+        <item value='27'>27</item>
+        <item value='28'>28</item>
+        <item value='29'>29</item>
+        <item value='30'>30</item>
+        <item value='31'>31</item>
+        <item value='32'>32</item>
+        <item value='33'>33</item>
+        <item value='34'>34</item>
+        <item value='35'>35</item>
+        <item value='36'>36</item>
+        <item value='37'>37</item>
+        <item value='38'>38</item>
+        <item value='39'>39</item>
+        <item value='40'>40</item>
+        <item value='41'>41</item>
+        <item value='42'>42</item>
+        <item value='43'>43</item>
+        <item value='44'>44</item>
+        <item value='45'>45</item>
+        <item value='46'>46</item>
+        <item value='47'>47</item>
+        <item value='48'>48</item>
+        <item value='49'>49</item>
+        <item value='50'>50</item>
+    </string-array>
+
+    <string-array name="extra_vil_value_array">
+        <item value='0'>-เลือก-</item>
+        <item value='1'>01</item>
+        <item value='2'>02</item>
+        <item value='3'>03</item>
+        <item value='4'>04</item>
+        <item value='5'>05</item>
+        <item value='6'>06</item>
+        <item value='7'>07</item>
+        <item value='8'>08</item>
+        <item value='9'>09</item>
+        <item value='10'>10</item>
+        <item value='11'>11</item>
+        <item value='12'>12</item>
+        <item value='13'>13</item>
+        <item value='14'>14</item>
+        <item value='15'>15</item>
+        <item value='16'>16</item>
+        <item value='17'>17</item>
+        <item value='18'>18</item>
+        <item value='19'>19</item>
+        <item value='20'>20</item>
+        <item value='21'>21</item>
+        <item value='22'>22</item>
+        <item value='23'>23</item>
+        <item value='24'>24</item>
+        <item value='25'>25</item>
+        <item value='26'>26</item>
+        <item value='27'>27</item>
+        <item value='28'>28</item>
+        <item value='29'>29</item>
+        <item value='30'>30</item>
+        <item value='31'>31</item>
+        <item value='32'>32</item>
+        <item value='33'>33</item>
+        <item value='34'>34</item>
+        <item value='35'>35</item>
+        <item value='36'>36</item>
+        <item value='37'>37</item>
+        <item value='38'>38</item>
+        <item value='39'>39</item>
+        <item value='40'>40</item>
+        <item value='41'>41</item>
+        <item value='42'>42</item>
+        <item value='43'>43</item>
+        <item value='44'>44</item>
+        <item value='45'>45</item>
+        <item value='46'>46</item>
+        <item value='47'>47</item>
+        <item value='48'>48</item>
+        <item value='49'>49</item>
+        <item value='50'>50</item>
+
+
+
+
+    </string-array>
+
+    <string-array name="tablet_item_array">
+        <item value='0'>- เลือก -</item>
+        <item value='1'> 1 </item>
+        <item value='2'> 2 </item>
+        <item value='3'> 3 </item>
+        <item value='4'> 4 </item>
+        <item value='5'> 5 </item>
+        <item value='6'> 6 </item>
+        <item value='7'> 7 </item>
+        <item value='8'> 8 </item>
+        <item value='9'> 9 </item>
+    </string-array>
+
+    <string-array name="tablet_value_array">
+        <item value='0'>999</item>
+        <item value='1'>1</item>
+        <item value='2'>2</item>
+        <item value='3'>3</item>
+        <item value='4'>4</item>
+        <item value='5'>5</item>
+        <item value='6'>6</item>
+        <item value='7'>7</item>
+        <item value='8'>8</item>
+        <item value='9'>9</item>
+    </string-array>
+
+    <string-array name="a3_2_item_array">
+        <item value='0'>- เลือก -</item>
+        <item value='1'>01 - บ้านเดี่ยว</item>
+        <item value='2'>02 - บ้านแฝด</item>
+        <item value='3'>03 - บ้านแถว ได้แก่ ทาวน์เฮ้าส์ / ทาวน์โฮม</item>
+        <item value='4'>04 - ห้องแถว / เรือนแถว</item>
+        <item value='5'>05 - ตึกแถว</item>
+        <item value='6'>06 - อาคารอยู่อาศัยรวม / แฟลต / หอพัก / อาคารชุด / คอนโด / แมนชั่น (ระบุจำนวนชั้น)</item>
+        <item value='7'>07 - เรือ / แพ / รถ</item>
+        <item value='8'>08 - อาคารเพื่อการอยู่อาศัยอื่น ๆ (ระบุ) </item>
+        <item value='9'>09 - โรงแรม /  รีสอร์ท / เกสต์เฮาส์ / บังกะโล</item>
+        <item value='10'>10 - สถานที่ราชการ / รัฐวิสาหกิจ</item>
+        <item value='11'>11 - อาคารสำนักงานเอกชน</item>
+        <item value='12'>12 - ห้างสรรพสินค้า / ร้านค้าส่งค้าปลีก / ตลาดที่มีโครงสร้างอาคาร</item>
+        <item value='13'>13 - โรงงาน / โรงสี / คลังสินค้า / โกดัง</item>
+        <item value='14'>14 - สถานศึกษา / โรงเรียน / มหาวิทยาลัย / สถาบันการศึกษาอื่น ๆ</item>
+        <item value='15'>15 - สถานพยาบาล / โรงพยาบาล / สถานีอนามัย </item>
+        <item value='16'>16 - ศาสนสถาน / วัด / มัสยิด / โบสถ์คริสต์</item>
+        <item value='17'>17 - เรือนจำ / ทัณฑสถาน / สถานพินิจ</item>
+        <item value='18'>18 - กรมกองทหารหรือตำรวจ</item>
+        <item value='19'>19 - อาคารที่ไม่ใช่เพื่อการอยู่อาศัยอื่น ๆ (ระบุ) </item>
+
+    </string-array>
+
+    <string-array name="a3_2_value_array">
+        <item value='0'>999</item>
+        <item value='1'>1</item>
+        <item value='2'>2</item>
+        <item value='3'>3</item>
+        <item value='4'>4</item>
+        <item value='5'>5</item>
+        <item value='6'>6</item>
+        <item value='7'>7</item>
+        <item value='8'>8</item>
+        <item value='9'>9</item>
+        <item value='10'>10</item>
+        <item value='11'>11</item>
+        <item value='12'>12</item>
+        <item value='13'>13</item>
+        <item value='14'>14</item>
+        <item value='15'>15</item>
+        <item value='16'>16</item>
+        <item value='17'>17</item>
+        <item value='18'>18</item>
+        <item value='19'>19</item>
+
+    </string-array>
+
+
+    <string-array name="a4_item_array">
+        <item value='0'>- เลือก -</item>
+        <item value='1'> 1 - มีคนอยู่อาศัยเป็นประจำ</item>
+        <item value='2'> 2 - มีคนอยู่อาศัย แต่ไม่ได้อยู่ประจำ เช่น บ้านตากอากาศ บ้านหลังที่ 2</item>
+        <item value='3'> 3 - ไม่มีคนอยู่อาศัย</item>
+    </string-array>
+
+    <string-array name="a4_value_array">
+        <item value='0'>999</item>
+        <item value='1'>1</item>
+        <item value='2'>2</item>
+        <item value='3'>3</item>
+    </string-array>
+    <string-array name="a4_1_item_array">
+        <item value='0'>- เลือก -</item>
+        <item value='1'> 1 - บ้านว่าง</item>
+        <item value='2'> 2 - บ้านร้าง</item>
+        <item value='3'> 3 - อาคารที่ไม่ได้ใช้เป็นที่อยู่อาศัย</item>
+        <item value='4'> 4 - อาคารที่อยู่อาศัย แต่ใช้เพื่อประโยชน์อื่น ๆ เช่น เก็บของ รื้อถอน อาคารที่กำลังก่อสร้าง (ระบุ)
+</item>
+    </string-array>
+
+    <string-array name="a4_1_value_array">
+        <item value='0'>999</item>
+        <item value='1'>1</item>
+        <item value='2'>2</item>
+        <item value='3'>3</item>
+        <item value='4'>4</item>
+    </string-array>
+
+
+    <string-array name="a5_item_array">
+        <item value='0'>- เลือก -</item>
+        <item value='1'> 1 - นับจดอาคารได้ \n    (ได้รับอนุญาตให้เข้าอาคารและเก็บข้อมูลผู้พักอาศัยได้) </item>
+        <item value='2'> 2 - นับจดอาคารไม่ได้ \n    (ไม่ได้รับอนุญาตให้เข้าอาคาร)</item>
+        <item value='3'> 3 - ไม่พบผู้ดูแลอาคาร \n    (ยุติการสัมภาษณ์อาคารชั่วคราว) </item>
+
+    </string-array>
+
+    <string-array name="a5_value_array">
+        <item value='0'>999</item>
+        <item value='1'>1</item>
+        <item value='2'>2</item>
+        <item value='3'>3</item>
+    </string-array>
+
+    <string-array name="a08_item_array">
+        <item value='0'>- เลือก -</item>
+        <item value='1'> 1 - มี    (ให้ความร่วมมือ)</item>
+        <item value='2'> 2 - มี    (ไม่ให้ความร่วมมือ)</item>
+        <item value='3'> 3 - ไม่มี (ไปไม่พบผู้ให้ข้อมูล)</item>
+    </string-array>
+
+    <string-array name="a08_value_array">
+        <item value='0'>999</item>
+        <item value='1'>1</item>
+        <item value='2'>2</item>
+        <item value='3'>3</item>
+    </string-array>
+
+    <string-array name="a008_item_array">
+        <item value='0'>- เลือก -</item>
+        <item value='1'> 1 - มี    (ให้ความร่วมมือ)</item>
+        <item value='2'> 2 - มี    (ไม่ให้ความร่วมมือ)</item>
+        <item value='3'> 3 - ไม่มี (ไปไม่พบผู้ให้ข้อมูล)</item>
+        <item value='4'> 4 - ห้องว่าง ไม่มีผู้พักอาศัย</item>
+    </string-array>
+
+    <string-array name="a008_value_array">
+        <item value='0'>999</item>
+        <item value='1'>1</item>
+        <item value='2'>2</item>
+        <item value='3'>3</item>
+        <item value='4'>4</item>
+    </string-array>
+
+    <string-array name="a9_item_array">
+        <item value='0'>- เลือก -</item>
+        <item value='1'> 1 - ครัวเรือนส่วนบุคคล </item>
+        <item value='2'> 2 - ครัวเรือนกลุ่มบุคคลประเภทครัวเรือนคนงาน    </item>
+        <item value='3'> 3 - ครัวเรือนกลุ่มบุคคลประเภทครัวเรือนสถาบัน</item>
+    </string-array>
+
+    <string-array name="a9_value_array">
+        <item value='0'>999</item>
+        <item value='1'>1</item>
+        <item value='2'>2</item>
+        <item value='3'>3</item>
+    </string-array>
+
+    <string-array name="a20_item_array">
+        <item value='0'>- เลือก -</item>
+        <item value='1'> 1 - นายจ้าง</item>
+        <item value='2'> 2 - ผู้ทำงานส่วนตัว</item>
+        <item value='3'> 3 - ลูกจ้างรัฐบาล </item>
+        <item value='4'> 4 - ลูกจ้างรัฐวิสาหกิจ</item>
+        <item value='5'> 5 - ลูกจ้างเอกชน</item>
+        <item value='6'> 6 - การรวมกลุ่ม</item>
+
+    </string-array>
+
+    <string-array name="a20_value_array">
+        <item value='0'>999</item>
+        <item value='1'>1</item>
+        <item value='2'>2</item>
+        <item value='3'>3</item>
+        <item value='4'>4</item>
+        <item value='5'>5</item>
+        <item value='6'>6</item>
+
+    </string-array>
+
+    <string-array name="a23_item_array">
+        <item value='0'>- เลือก -</item>
+        <item value='1'> 1 - เป็น </item>
+        <item value='2'> 2 - ไม่เป็น</item>
+    </string-array>
+
+    <string-array name="a23_value_array">
+        <item value='0'>999</item>
+        <item value='1'>1</item>
+        <item value='2'>2</item>
+    </string-array>
+
+    <string-array name="a30_item_array">
+        <item value='0'>- เลือก -</item>
+        <item value='1'> 1 - ได้ </item>
+        <item value='2'> 2 - ไม่ได้</item>
+    </string-array>
+
+    <string-array name="a30_value_array">
+        <item value='0'>999</item>
+        <item value='1'>1</item>
+        <item value='2'>2</item>
+    </string-array>
+
+    <string-array name="a301_item_array">
+        <item value='0'>- เลือก -</item>
+        <item value='1'> 1 - อังกฤษ  </item>
+        <item value='2'> 2 - จีน   </item>
+        <item value='3'> 3 - พม่า  </item>
+        <item value='4'> 4 - กระเหรี่ยง </item>
+        <item value='5'> 5 - ม้ง / แม้ว   </item>
+        <item value='6'> 6 - มลายูถิ่น / ยาวี / มาเลย์  </item>
+        <item value='7'> 7 - อื่น ๆ (ระบุ)  </item>
+    </string-array>
+
+    <string-array name="a301_value_array">
+        <item value='0'>999</item>
+        <item value='1'>1</item>
+        <item value='2'>2</item>
+        <item value='3'>3</item>
+        <item value='4'>4</item>
+        <item value='5'>5</item>
+        <item value='6'>6</item>
+        <item value='7'>7</item>
+    </string-array>
+
+    <string-array name="ah_item_array">
+        <item value='0'>- เลือก -</item>
+        <item value='1'> 1 - เป็นของครัวเรือนเอง/เช่าซื้อ  </item>
+        <item value='2'> 2 - เช่าจากผู้อื่น   </item>
+        <item value='3'> 3 - ไม่ใช่ของครัวเรือน แต่อยู่โดยไม่มีการเช่า  </item>
+        <item value='4'> 4 - ไม่ทราบ  </item>
+    </string-array>
+
+    <string-array name="ah_value_array">
+        <item value='0'>999</item>
+        <item value='1'>1</item>
+        <item value='2'>2</item>
+        <item value='3'>3</item>
+        <item value='4'>4</item>
+    </string-array>
+
+    <string-array name="a10_p1_item_array">
+        <item value='0'>- เลือก -</item>
+        <item value='1'> 1 - นาย</item>
+        <item value='2'> 2 - นาง </item>
+        <item value='3'> 3 - น.ส. </item>
+        <item value='4'> 4 - ด.ช.</item>
+        <item value='5'> 5 - ด.ญ.</item>
+        <item value='6'> 6 - อื่นๆ  </item>
+    </string-array>
+
+    <string-array name="a10_p1_value_array">
+        <item value='0'>999</item>
+        <item value='1'>1</item>
+        <item value='2'>2</item>
+        <item value='3'>3</item>
+        <item value='4'>4</item>
+        <item value='5'>5</item>
+        <item value='6'>6</item>
+    </string-array>
+
+</resources>
